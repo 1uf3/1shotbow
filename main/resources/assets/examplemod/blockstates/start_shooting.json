@@ -1,0 +1,23 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "particle": "examplemod:blocks/StartShooting",
+      "down": "examplemod:blocks/StartShooting",
+      "up": "examplemod:blocks/StartShooting",
+      "east": "examplemod:blocks/StartShooting",
+      "west": "examplemod:blocks/StartShooting",
+      "north": "examplemod:blocks/StartShooting",
+      "south": "examplemod:blocks/StartShooting"
+    },
+    "model": "cube_all"
+  },
+  "variants": {
+    "normal": [
+      {}
+    ],
+    "inventory": [
+      {}
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+# Language file (en_US)
+
+tile.examplemod_myblock.name=MyBlock
+tile.examplemod_block_fortune.name=FortuneBlock
+item.examplemod_Diamond_Nugget.name=Diamond Nugget
+item.examplemod_one_shot_arrow.name=One Shot Arrow
